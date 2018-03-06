@@ -1,0 +1,6 @@
+Installation
+
+1. Confgiure steamauth(web/steamauth/SteamConfig.php)
+2. Configure the plugin to download from the correct location
+3. Upload a spray and text
+4. Have fun(this is a required step if you are not having fun I will do nothing against you.)

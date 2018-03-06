@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture" "decals\sprays\{STEAMAUTH}"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.5"
+}
